@@ -47,3 +47,19 @@ footer{
  background: skyblue;
  border-radius: 10px;   
 }
+nav li{
+border: 2px;
+background-color: orange;
+list-style-type: none;
+}
+nav li a{
+    text-align: center;
+    background-color: orangered;
+    text-decoration: none;
+}
+nav li:hover{
+    background-color: red;
+}
+.active{
+    background-color: black;
+}
