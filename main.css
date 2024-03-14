@@ -49,13 +49,13 @@ footer{
 }
 nav li{
 border: 2px;
-accent-color: white;
+accent-color: purple;
 background-color: orangered;
 list-style-type: none;
 }
 nav li a{
     text-align: center;
-    background-color: purple;
+    text-decoration-color: white;
     text-decoration: none;
 }
 nav li:hover{
