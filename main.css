@@ -55,11 +55,11 @@ list-style-type: none;
 }
 nav li a{
     text-align: center;
-    background-color: orangered;
+    background-color: purple;
     text-decoration: none;
 }
 nav li:hover{
-    background-color: red;
+    background-color: green;
 }
 .active{
     background-color: black;
