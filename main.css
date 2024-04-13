@@ -65,19 +65,3 @@ nav li:hover{
 .active{
     background-color: black;
 }
-table{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border-collapse: collapse;
-}
-table th, table td{
-    border: 2px solid #f0f0f0;
-}
-Table tr:nth-child(even){
-    background-color: F2F2F2;
-}
-Table tr:hover{
-    background-color: orangered;
-}
-Table th{
-    background-color: orange;
-}
