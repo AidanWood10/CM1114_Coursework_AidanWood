@@ -5,11 +5,18 @@ header{
     background-color: orangered;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+    padding: 10px;
+}
+header img{
+    height: 50px;
+    width: 50px;
+    float: left;
 }
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     font-size: xx-large;
+    display: inline;
 }
 h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
