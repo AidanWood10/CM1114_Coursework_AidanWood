@@ -5,19 +5,11 @@ header{
     background-color: orangered;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    padding: 10px;
-}
-header img{
-    height: 50px;
-    width: 50px;
-    float: left;
-    margin-right: 10px;
 }
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     font-size: xx-large;
-    display: inline;
 }
 h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -55,22 +47,12 @@ footer{
  background: skyblue;
  border-radius: 10px;   
 }
-
-
-nav ul{
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
 nav li{
 border: 2px;
 border: solid;
 accent-color: black;
 background-color: orangered;
 list-style-type: none;
-display: inline-block; 
-width: 15%;
-padding: 16px;
 }
 nav li a{
     text-align: center;
@@ -78,26 +60,8 @@ nav li a{
     text-decoration: none;
 }
 nav li:hover{
-    background-color: black;
+    background-color: red;
 }
 .active{
     background-color: black;
-}
-
-
-table{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border-collapse: collapse;
-}
-table th, table td{
-    border: 2px solid #f0f0f0;
-}
-Table tr:nth-child(even){
-    background-color: F2F2F2;
-}
-Table tr:hover{
-    background-color: orangered;
-}
-Table th{
-    background-color: orange;
 }
